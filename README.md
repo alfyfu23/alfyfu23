@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfyfu23&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfyfu23&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfyfu23)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfyfu23&langs_count=8&layout=compact)
